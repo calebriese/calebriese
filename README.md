@@ -1,10 +1,10 @@
 # Caleb Riese
 Computer Science student at University of Missouri - St. Louis
-## Favorite Languages
+### Favorite Languages
 - C#
 - C++
 - Java
-## Favorite Tools
+### Favorite Tools
 - zsh
 - Oh-My-Zsh
 - iTerm2
