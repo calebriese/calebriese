@@ -1,5 +1,5 @@
 # Caleb Riese
-> Computer Science student at University of Missouri - St. Louis
+> Computer science student at University of Missouri - St. Louis
 ### Favorite Languages
 - C#
 - C++
