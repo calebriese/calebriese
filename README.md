@@ -4,7 +4,7 @@ Computer Science student at University of Missouri - St. Louis
 - C#
 - C++
 - Java
-## Recommended Software
+## Favorite Tools
 - zsh
 - Oh-My-Zsh
 - iTerm2
